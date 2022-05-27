@@ -1,4 +1,4 @@
-# Code Refactor for Horiseon
+# Code Refractor for Horiseon
 
 ## User Story
 ```
